@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/about.ico</file>
+        <file>images/add_contact.ico</file>
+        <file>images/contact.ico</file>
+        <file>images/exit.ico</file>
+        <file>images/help.ico</file>
+        <file>images/setting.ico</file>
+        <file>chatwindow.cpp</file>
+        <file>chatwindow.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>settingsdialog.cpp</file>
+        <file>settingsdialog.h</file>
+        <file>videodialog.cpp</file>
+        <file>videodialog.h</file>
+        <file>images/backspace.ico</file>
+        <file>images/call.ico</file>
+        <file>images/camera.ico</file>
+        <file>images/contacts.ico</file>
+        <file>images/dialpad.ico</file>
+        <file>images/history.ico</file>
+        <file>images/Phone.ico</file>
+        <file>images/answer.ico</file>
+        <file>images/call_stop.ico</file>
+        <file>images/background.jpg</file>
+        <file>images/msg.ico</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
